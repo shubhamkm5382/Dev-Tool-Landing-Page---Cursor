@@ -11,7 +11,7 @@ Original Website: https://cursor.com/
 ## 🌐 Live Demo
 
 🔗 Live Preview:  
-https://your-live-link-here
+https://dev-tool-landing-page-cursor-clone.netlify.app/
 
 ---
 
@@ -95,7 +95,7 @@ These colors were selected to match the dark theme and visual hierarchy of the o
 ## 📂 Project Structure
 
 ```text
-cursor-clone/
+Dev Tool Landing Page - Cursor/
 │
 ├── index.html
 ├── style.css
